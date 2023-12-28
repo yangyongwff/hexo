@@ -1,5 +1,6 @@
 ---
 title: MySQL缓冲池的管理机制
+date: 2023-11-20 10:37:51
 tags:
 - MySQL
 ---
