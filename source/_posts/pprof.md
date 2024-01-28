@@ -3,6 +3,7 @@ title: Golang 大杀器性能剖析 PProf
 date: 2023-12-20 20:37:51
 tags:
 - PProf
+categories: GoLang
 ---
 
 > 原因：组内大部分同学接触Go时间不长，对Go的一些生态工具不是特别了解，比如PProf，通过技术分享共同学习
