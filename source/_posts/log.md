@@ -2,6 +2,8 @@
 title: MySQL日志介绍
 date: 2024-06-01 23:20:31
 tags:
+- MySQL
+categories: MySQL
 ---
 
 ## 前言
